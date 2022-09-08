@@ -1,0 +1,6 @@
+remote_data_path: data/Train.csv
+
+artifacts:
+  artifacts_dir: artifacts
+  raw_local_dir: row_local_dir
+  raw_local_file: data.csv
