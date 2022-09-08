@@ -1,0 +1,7 @@
+pandas
+numpy
+mlflow
+scikit-learn
+
+# local package
+-e . 
