@@ -4,3 +4,9 @@ artifacts:
   artifacts_dir: artifacts
   raw_local_dir: row_local_dir
   raw_local_file: data.csv
+  
+  final_data_dir: final_data_dir
+  final_data_file: final.csv
+  
+  model_dir: model_dir
+  model_name: model.pkl
